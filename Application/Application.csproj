@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\Expenditure\**" />
+    <Compile Remove="Services\Loan\**" />
+    <Compile Remove="Services\Membership\**" />
+    <Compile Remove="Services\Saving\**" />
+    <Compile Remove="Services\Welfare\**" />
+    <EmbeddedResource Remove="Services\Expenditure\**" />
+    <EmbeddedResource Remove="Services\Loan\**" />
+    <EmbeddedResource Remove="Services\Membership\**" />
+    <EmbeddedResource Remove="Services\Saving\**" />
+    <EmbeddedResource Remove="Services\Welfare\**" />
+    <None Remove="Services\Expenditure\**" />
+    <None Remove="Services\Loan\**" />
+    <None Remove="Services\Membership\**" />
+    <None Remove="Services\Saving\**" />
+    <None Remove="Services\Welfare\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.Persistence\Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeForge.props" />
+</Project>
