@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeForge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae7dd00ccc0ce990d1169943d277e8fb744da8af")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeForge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeForge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

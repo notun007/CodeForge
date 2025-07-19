@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {}
+    "D:\\Github Projects\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {}
   },
   "projects": {
-    "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {
+    "D:\\Github Projects\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
+        "projectUniqueName": "D:\\Github Projects\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
         "projectName": "Infrastructure.Identity",
-        "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
+        "projectPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
         "packagesPath": "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\",
-        "outputPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Identity\\obj\\",
+        "outputPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TF SMS TEAM\\AppData\\Roaming\\NuGet\\NuGet.Config",

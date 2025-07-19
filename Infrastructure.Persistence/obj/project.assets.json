@@ -4759,11 +4759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+      "projectUniqueName": "D:\\Github Projects\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
       "projectName": "Infrastructure.Persistence",
-      "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+      "projectPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
       "packagesPath": "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\",
-      "outputPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Persistence\\obj\\",
+      "outputPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TF SMS TEAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4780,11 +4780,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Self\\New folder\\CodeForge\\CodeForge\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Domain\\Domain.csproj"
+            "D:\\Github Projects\\CodeForge\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Github Projects\\CodeForge\\Domain\\Domain.csproj"
             },
-            "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
-              "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj"
+            "D:\\Github Projects\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
+              "projectPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj"
             }
           }
         }

@@ -13,6 +13,8 @@ namespace Domain.DbModels.Loan
     [Table("LoanCollection", Schema = "Loan")]
     public class LoanCollection: BaseEntity
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int64 Id { get; set; }
         
         public Int64 LoanDisbursementId { get; set; }

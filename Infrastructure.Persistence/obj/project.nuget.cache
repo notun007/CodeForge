@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PCPNjzngtW3EH2OQ1d5/Aq6b0/NWOxLX5jufdky/DZXWFm2sbbEQgiIfFV6o9V3P+YAZZGwzpaMK8lAQeI1AdA==",
+  "dgSpecHash": "MHAPMq4qJBK7dUW1uLcMz/s24Hc5OGWziWLt5QTk0CmDg0T4QVdVIZZS09swkDhi1S+ZIvu1WFzYWqVP75tuQA==",
   "success": true,
-  "projectFilePath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+  "projectFilePath": "D:\\Github Projects\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

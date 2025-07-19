@@ -2852,11 +2852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Github Projects\\CodeForge\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Application\\Application.csproj",
+      "projectPath": "D:\\Github Projects\\CodeForge\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\",
-      "outputPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Application\\obj\\",
+      "outputPath": "D:\\Github Projects\\CodeForge\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TF SMS TEAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2873,8 +2873,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
-              "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj"
+            "D:\\Github Projects\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
+              "projectPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj"
             }
           }
         }

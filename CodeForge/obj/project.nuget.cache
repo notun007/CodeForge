@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nnGm00x1hEmKM1x/W3QRyYp/kasNkzX+es81GzLVc/Qzr994NmV6falUBNtHdwQx1T8QrjEB+rxz5H+2yeJbcg==",
+  "dgSpecHash": "MR87vDBOt6k+RNdxK5UI6i3fXOXwj0orh8R72Stz4nU0gaZcig8d4O5u6ti+ZtYzyKeBshoWj3nKESFV6t5c+A==",
   "success": true,
-  "projectFilePath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\CodeForge\\CodeForge.csproj",
+  "projectFilePath": "D:\\Github Projects\\CodeForge\\CodeForge\\CodeForge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -12,6 +12,8 @@ namespace Domain.DbModels.Member
     [Table("Unregistrations", Schema = "Membership")]
     public class Unregistration: BaseEntity
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int64 Id { get; set; }
         [MaxLength(200)]
         public string Name { get; set; }

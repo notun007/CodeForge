@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Self\\New folder\\CodeForge\\CodeForge\\Domain\\Domain.csproj": {}
+    "D:\\Github Projects\\CodeForge\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Self\\New folder\\CodeForge\\CodeForge\\Domain\\Domain.csproj": {
+    "D:\\Github Projects\\CodeForge\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Github Projects\\CodeForge\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Github Projects\\CodeForge\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\",
-        "outputPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Domain\\obj\\",
+        "outputPath": "D:\\Github Projects\\CodeForge\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TF SMS TEAM\\AppData\\Roaming\\NuGet\\NuGet.Config",

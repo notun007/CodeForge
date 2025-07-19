@@ -12,6 +12,8 @@ namespace Domain.DbModels.Welfare
     [Table("Disbursements", Schema = "Disbursements")]
     public class Disbursement: BaseEntity
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int64 Id { get; set; }
         [MaxLength(200)]
         public string Name { get; set; }

@@ -5215,11 +5215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Self\\New folder\\CodeForge\\CodeForge\\CodeForge\\CodeForge.csproj",
+      "projectUniqueName": "D:\\Github Projects\\CodeForge\\CodeForge\\CodeForge.csproj",
       "projectName": "CodeForge",
-      "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\CodeForge\\CodeForge.csproj",
+      "projectPath": "D:\\Github Projects\\CodeForge\\CodeForge\\CodeForge.csproj",
       "packagesPath": "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\",
-      "outputPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\CodeForge\\obj\\",
+      "outputPath": "D:\\Github Projects\\CodeForge\\CodeForge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TF SMS TEAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5236,8 +5236,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Self\\New folder\\CodeForge\\CodeForge\\Application\\Application.csproj": {
-              "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Application\\Application.csproj"
+            "D:\\Github Projects\\CodeForge\\Application\\Application.csproj": {
+              "projectPath": "D:\\Github Projects\\CodeForge\\Application\\Application.csproj"
             }
           }
         }

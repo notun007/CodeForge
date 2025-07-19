@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {}
+    "D:\\Github Projects\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {}
   },
   "projects": {
-    "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
+    "D:\\Github Projects\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+        "projectUniqueName": "D:\\Github Projects\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
         "projectName": "Infrastructure.Shared",
-        "projectPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+        "projectPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
         "packagesPath": "C:\\Users\\TF SMS TEAM\\.nuget\\packages\\",
-        "outputPath": "D:\\Self\\New folder\\CodeForge\\CodeForge\\Infrastructure.Shared\\obj\\",
+        "outputPath": "D:\\Github Projects\\CodeForge\\Infrastructure.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TF SMS TEAM\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,6 +13,8 @@ namespace Domain.DbModels.Accounting.Expenditure
     [Table("Expenses", Schema = "Accounting")]
     public class Expense : BaseEntity
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int64 Id { get; set; }
         public Int16 ExpenseTypeId { get; set; } // Rent, Utilities, LoanFee, etc.
         public ExpenseType ExpenseType { get; set; }

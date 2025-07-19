@@ -12,6 +12,8 @@ namespace Domain.DbModels.Welfare
     [Table("Applications", Schema = "Welfare")]
     public class Application: BaseEntity
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int64 Id { get; set; }
         [MaxLength(200)]
         public string Name { get; set; }
