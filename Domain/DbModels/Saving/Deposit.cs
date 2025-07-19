@@ -23,6 +23,7 @@ namespace Domain.DbModels.Saving
         public DateTime DepositDate { get; set; }
         public Int16 PaymentMethodId { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
+        [MaxLength(200)]
         public string Remarks { get; set; }
     }
 }

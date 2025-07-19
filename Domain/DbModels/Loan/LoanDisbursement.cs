@@ -22,14 +22,16 @@ namespace Domain.DbModels.Loan
         public int LoanNumber { get; set; }
         public decimal LoanAmount { get; set; }
         public Int16 TenureId { get; set; } //Enum in Month
+        public Tenure Tenure { get; set; } //Enum in Month
         public decimal InstallmentAmount { get; set; }
         public Int16 PaymentMethodId { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
-        public string Remarks { get; set; }
+        [MaxLength(200)]
+        public string? Remarks { get; set; }
         public int DisbursedBy { get; set; }
         public DateTime DisbursementDate { get; set; }
             
-        public int ApprovedBy { get; set; }
+        public int? ApprovedBy { get; set; }
         public DateTime? ApprovedDate { get; set; }
     }
 }

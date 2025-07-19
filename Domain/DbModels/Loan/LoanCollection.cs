@@ -18,14 +18,18 @@ namespace Domain.DbModels.Loan
         public Int64 Id { get; set; }
         
         public Int64 LoanDisbursementId { get; set; }
+        public LoanDisbursement LoanDisbursement { get; set; }
         public decimal CollectionAmount { get; set; }
-        public decimal PenaltyAmount { get; set; }
-        public decimal OtherCharges { get; set; }
+        public decimal? PenaltyAmount { get; set; }
+        public decimal? OtherCharges { get; set; }
         public Int16 PaymentMethodId { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
+        public PaymentMethod PaymentMethod { get; set; }
+        [MaxLength(100)]
         public string ReferenceNumber { get; set; }
         public int CollectedBy { get; set; }
         public DateTime CollectionDate { get; set; }
+        [MaxLength(200)]
         public string Remarks { get; set; }
         public bool IsAdvancePayment { get; set; }
         public DateTime? DueDate { get; set; }
