@@ -1,0 +1,1677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Self Project\\CodeForge\\CodeForge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\accounting\\expenditure\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\accounting\\expenditure\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\accounting\\expenditure\\expensetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\accounting\\expenditure\\expensetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\accounting\\income\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\accounting\\income\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\accounting\\income\\incometype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\accounting\\income\\incometype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\loan\\loancollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\loan\\loancollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|h:\\self project\\codeforge\\codeforge\\codeforge\\controllers\\loan\\loancollectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|solutionrelative:codeforge\\controllers\\loan\\loancollectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\loan\\loandisbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\loan\\loandisbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\loan\\loancollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\loan\\loancollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\implementations\\loan\\loancollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\implementations\\loan\\loancollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\interfaces\\loan\\iloancollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\interfaces\\loan\\iloancollectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\loan\\loancollectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\loan\\loancollectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\member\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\member\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|h:\\self project\\codeforge\\codeforge\\codeforge\\controllers\\loan\\loanapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|solutionrelative:codeforge\\controllers\\loan\\loanapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\loan\\iloanapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\loan\\iloanapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\loan\\loanapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\loan\\loanapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\interfaces\\loan\\iloanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\interfaces\\loan\\iloanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\implementations\\loan\\loanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\implementations\\loan\\loanapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\loan\\loanapplicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\loan\\loanapplicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\paymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\paymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|h:\\self project\\codeforge\\codeforge\\codeforge\\controllers\\common\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|solutionrelative:codeforge\\controllers\\common\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|h:\\self project\\codeforge\\codeforge\\codeforge\\controllers\\common\\religioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|solutionrelative:codeforge\\controllers\\common\\religioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\ipaymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\ipaymentmethodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\ireligion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\ireligion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\mobilebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\mobilebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\implementations\\saving\\depositrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\implementations\\saving\\depositrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\interfaces\\saving\\idepositrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\interfaces\\saving\\idepositrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\implementations\\member\\unregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\implementations\\member\\unregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\interfaces\\member\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\interfaces\\member\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\interfaces\\member\\iunregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\interfaces\\member\\iunregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\implementations\\member\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\implementations\\member\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\saving\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\saving\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|h:\\self project\\codeforge\\codeforge\\codeforge\\controllers\\member\\unregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|solutionrelative:codeforge\\controllers\\member\\unregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|h:\\self project\\codeforge\\codeforge\\codeforge\\controllers\\member\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|solutionrelative:codeforge\\controllers\\member\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\member\\unregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\member\\unregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\member\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\member\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\member\\iunregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\member\\iunregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\member\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\member\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\member\\unregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\member\\unregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\member\\membershipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\member\\membershipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\member\\membershipstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\member\\membershipstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\member\\unregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\member\\unregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\member\\membershipstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\member\\membershipstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\interfaces\\accounting\\expenditure\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\interfaces\\accounting\\expenditure\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\accounting\\expenditure\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\accounting\\expenditure\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\loan\\loandisbursementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\loan\\loandisbursementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\loan\\iloandisbursementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\loan\\iloandisbursementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\loan\\loandisbursementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\loan\\loandisbursementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\welfare\\disbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\welfare\\disbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\welfare\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\welfare\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\common\\countryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\common\\countryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\common\\designationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\common\\designationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\viewmodels\\common\\districtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\common\\districtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\upazila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\upazila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\union.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\union.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\servicedivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\servicedivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\servicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\servicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\mobilebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\mobilebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|h:\\self project\\codeforge\\codeforge\\domain\\dbmodels\\common\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23680CE-5611-48D8-9F31-B930802B22DC}|Domain\\Domain.csproj|solutionrelative:domain\\dbmodels\\common\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\welfare\\idisbursementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\welfare\\idisbursementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\welfare\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\welfare\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\saving\\idepositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\saving\\idepositservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\iupazilaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\iupazilaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\iunionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\iunionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\iservicedivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\iservicedivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\iservicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\iservicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\ioccupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\ioccupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\imobilebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\imobilebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\imembershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\imembershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\imaritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\imaritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\igender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\igender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\ieducationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\ieducationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\idivisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\idivisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\idistrictservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\interfaces\\common\\idesignationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\common\\idesignationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\unionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\unionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\upazilaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\upazilaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\servicedivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\servicedivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\servicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\servicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\divisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\divisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|h:\\self project\\codeforge\\codeforge\\application\\services\\implementations\\common\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC7598-7DE4-4BEF-85DE-7DE01143926D}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\common\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|h:\\self project\\codeforge\\codeforge\\codeforge\\controllers\\loan\\loandisbursementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E8A026-A467-445B-B6BD-72D4C75961E3}|CodeForge\\CodeForge.csproj|solutionrelative:codeforge\\controllers\\loan\\loandisbursementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\implementations\\loan\\loandisbursementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\implementations\\loan\\loandisbursementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|h:\\self project\\codeforge\\codeforge\\infrastructure.persistence\\repositories\\interfaces\\loan\\iloandisbursementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857B711E-4760-4B2F-8F73-EB8E8FEA720B}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\interfaces\\loan\\iloandisbursementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncomeType.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Income\\IncomeType.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Accounting\\Income\\IncomeType.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Income\\IncomeType.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Accounting\\Income\\IncomeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:26:09.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseType.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Expenditure\\ExpenseType.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Accounting\\Expenditure\\ExpenseType.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Expenditure\\ExpenseType.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Accounting\\Expenditure\\ExpenseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:24:15.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Income.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Income\\Income.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Accounting\\Income\\Income.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Income\\Income.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Accounting\\Income\\Income.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:21:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanCollectionController.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Loan\\LoanCollectionController.cs",
+              "RelativeDocumentMoniker": "CodeForge\\Controllers\\Loan\\LoanCollectionController.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Loan\\LoanCollectionController.cs",
+              "RelativeToolTip": "CodeForge\\Controllers\\Loan\\LoanCollectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:10:27.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanCollectionService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Loan\\LoanCollectionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Loan\\LoanCollectionService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Loan\\LoanCollectionService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Loan\\LoanCollectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:09:51.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanCollectionRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanCollectionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanCollectionRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanCollectionRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanCollectionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:09:33.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanCollection.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Loan\\LoanCollection.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Loan\\LoanCollection.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Loan\\LoanCollection.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Loan\\LoanCollection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:23:32.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Expenditure\\Expense.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Accounting\\Expenditure\\Expense.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Accounting\\Expenditure\\Expense.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Accounting\\Expenditure\\Expense.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:56:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILoanCollectionRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanCollectionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanCollectionRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanCollectionRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanCollectionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:09:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanDisbursement.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Loan\\LoanDisbursement.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Loan\\LoanDisbursement.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Loan\\LoanDisbursement.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Loan\\LoanDisbursement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:25:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoanCollectionViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Loan\\LoanCollectionViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Loan\\LoanCollectionViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Loan\\LoanCollectionViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Loan\\LoanCollectionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:08:33.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoanApplicationController.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Loan\\LoanApplicationController.cs",
+              "RelativeDocumentMoniker": "CodeForge\\Controllers\\Loan\\LoanApplicationController.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Loan\\LoanApplicationController.cs",
+              "RelativeToolTip": "CodeForge\\Controllers\\Loan\\LoanApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:56:19.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILoanApplicationService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Loan\\ILoanApplicationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Loan\\ILoanApplicationService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Loan\\ILoanApplicationService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Loan\\ILoanApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:55:54.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoanApplicationService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Loan\\LoanApplicationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Loan\\LoanApplicationService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Loan\\LoanApplicationService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Loan\\LoanApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:55:36.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoanApplicationViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Loan\\LoanApplicationViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Loan\\LoanApplicationViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Loan\\LoanApplicationViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Loan\\LoanApplicationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:54:16.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Member\\Membership.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Member\\Membership.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Member\\Membership.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Member\\Membership.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:29:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentMethodService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\PaymentMethodService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\PaymentMethodService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\PaymentMethodService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\PaymentMethodService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:53:04.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReligionController.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Common\\ReligionController.cs",
+              "RelativeDocumentMoniker": "CodeForge\\Controllers\\Common\\ReligionController.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Common\\ReligionController.cs",
+              "RelativeToolTip": "CodeForge\\Controllers\\Common\\ReligionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:48:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentMethodController.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Common\\PaymentMethodController.cs",
+              "RelativeDocumentMoniker": "CodeForge\\Controllers\\Common\\PaymentMethodController.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Common\\PaymentMethodController.cs",
+              "RelativeToolTip": "CodeForge\\Controllers\\Common\\PaymentMethodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:41:03.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanApplicationRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanApplicationRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanApplicationRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:59:16.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILoanApplicationRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanApplicationRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanApplicationRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:59:52.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPaymentMethodService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IPaymentMethodService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IPaymentMethodService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IPaymentMethodService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IPaymentMethodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:39:59.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MembershipType.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\MembershipType.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\MembershipType.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\MembershipType.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\MembershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:59:25.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MaritalStatus.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\MaritalStatus.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\MaritalStatus.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\MaritalStatus.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\MaritalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:59:13.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MobileBanking.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\MobileBanking.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\MobileBanking.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\MobileBanking.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\MobileBanking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:00:04.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\CountryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\CountryService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\CountryService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\CountryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:03:51.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IReligion.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IReligion.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IReligion.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IReligion.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IReligion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:31.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\ICountryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\ICountryService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\ICountryService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\ICountryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:18:30.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnregistrationRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Member\\UnregistrationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Implementations\\Member\\UnregistrationRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Member\\UnregistrationRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Implementations\\Member\\UnregistrationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:51:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MembershipRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Member\\MembershipRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Implementations\\Member\\MembershipRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Member\\MembershipRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Implementations\\Member\\MembershipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:43:35.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMembershipRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IMembershipRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IMembershipRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IMembershipRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IMembershipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:54:15.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUnregistrationRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IUnregistrationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IUnregistrationRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IUnregistrationRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Interfaces\\Member\\IUnregistrationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:52:02.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:52:50.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepositRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Saving\\DepositRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Implementations\\Saving\\DepositRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Saving\\DepositRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Implementations\\Saving\\DepositRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:53:46.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDepositRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Saving\\IDepositRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Interfaces\\Saving\\IDepositRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Saving\\IDepositRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Interfaces\\Saving\\IDepositRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:54:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Saving\\Deposit.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Saving\\Deposit.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Saving\\Deposit.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Saving\\Deposit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:25:47.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UnregistrationController.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Member\\UnregistrationController.cs",
+              "RelativeDocumentMoniker": "CodeForge\\Controllers\\Member\\UnregistrationController.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Member\\UnregistrationController.cs",
+              "RelativeToolTip": "CodeForge\\Controllers\\Member\\UnregistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:51:17.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MembershipController.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Member\\MembershipController.cs",
+              "RelativeDocumentMoniker": "CodeForge\\Controllers\\Member\\MembershipController.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Member\\MembershipController.cs",
+              "RelativeToolTip": "CodeForge\\Controllers\\Member\\MembershipController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:45:26.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnregistrationService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Member\\UnregistrationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Member\\UnregistrationService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Member\\UnregistrationService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Member\\UnregistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:49:30.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Member\\MembershipService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Member\\MembershipService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Member\\MembershipService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Member\\MembershipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:49:23.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUnregistrationService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Member\\IUnregistrationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Member\\IUnregistrationService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Member\\IUnregistrationService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Member\\IUnregistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:07:52.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMembershipService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Member\\IMembershipService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Member\\IMembershipService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Member\\IMembershipService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Member\\IMembershipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:43:17.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UnregistrationViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Member\\UnregistrationViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Member\\UnregistrationViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Member\\UnregistrationViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Member\\UnregistrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:50:23.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MembershipViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Member\\MembershipViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Member\\MembershipViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Member\\MembershipViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Member\\MembershipViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:50:18.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MembershipStatusViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Member\\MembershipStatusViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Member\\MembershipStatusViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Member\\MembershipStatusViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Member\\MembershipStatusViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:50:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Unregistration.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Member\\Unregistration.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Member\\Unregistration.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Member\\Unregistration.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Member\\Unregistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:25:33.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MembershipStatus.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Member\\MembershipStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Member\\MembershipStatus.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Member\\MembershipStatus.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Member\\MembershipStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:25:21.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "LoanDisbursementRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanDisbursementRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanDisbursementRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanDisbursementRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Implementations\\Loan\\LoanDisbursementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:25:07.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "LoanDisbursementController.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Loan\\LoanDisbursementController.cs",
+              "RelativeDocumentMoniker": "CodeForge\\Controllers\\Loan\\LoanDisbursementController.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\CodeForge\\Controllers\\Loan\\LoanDisbursementController.cs",
+              "RelativeToolTip": "CodeForge\\Controllers\\Loan\\LoanDisbursementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:25:28.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Accounting\\Expenditure\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Accounting\\Expenditure\\ExpenseService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Accounting\\Expenditure\\ExpenseService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Accounting\\Expenditure\\ExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:52:56.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Accounting\\Expenditure\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Interfaces\\Accounting\\Expenditure\\IExpenseRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Accounting\\Expenditure\\IExpenseRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Interfaces\\Accounting\\Expenditure\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:59:42.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ILoanDisbursementRepository.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanDisbursementRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanDisbursementRepository.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanDisbursementRepository.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\Interfaces\\Loan\\ILoanDisbursementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:24:47.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Infrastructure.Persistence.csproj",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T16:29:54.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoanDisbursementService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Loan\\LoanDisbursementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Loan\\LoanDisbursementService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Loan\\LoanDisbursementService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Loan\\LoanDisbursementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:24:19.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ILoanDisbursementService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Loan\\ILoanDisbursementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Loan\\ILoanDisbursementService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Loan\\ILoanDisbursementService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Loan\\ILoanDisbursementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:24:00.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoanDisbursementViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Loan\\LoanDisbursementViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Loan\\LoanDisbursementViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Loan\\LoanDisbursementViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Loan\\LoanDisbursementViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:23:13.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Application.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Welfare\\Application.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Welfare\\Application.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Welfare\\Application.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Welfare\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:26:14.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Disbursement.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Welfare\\Disbursement.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Welfare\\Disbursement.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Welfare\\Disbursement.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Welfare\\Disbursement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:26:20.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DesignationViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Common\\DesignationViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Common\\DesignationViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Common\\DesignationViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Common\\DesignationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:23:37.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CountryViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Common\\CountryViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Common\\CountryViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Common\\CountryViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Common\\CountryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:23:12.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DistrictViewModel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Common\\DistrictViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Common\\DistrictViewModel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\ViewModels\\Common\\DistrictViewModel.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Common\\DistrictViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:23:45.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Upazila.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Upazila.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Upazila.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Upazila.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Upazila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:22:44.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Union.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Union.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Union.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Union.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Union.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:22:38.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ServiceDepartment.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\ServiceDepartment.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\ServiceDepartment.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\ServiceDepartment.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\ServiceDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:22:25.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Religion.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Religion.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Religion.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Religion.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Religion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:22:17.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Occupation.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Occupation.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Occupation.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Occupation.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Occupation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:22:09.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MobileBanking.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\MobileBanking.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\MobileBanking.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\MobileBanking.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\MobileBanking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:22:03.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MembershipType.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\MembershipType.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\MembershipType.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\MembershipType.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\MembershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:21:57.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MaritalStatus.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\MaritalStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\MaritalStatus.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\MaritalStatus.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\MaritalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:21:50.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Gender.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Gender.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:21:43.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ServiceDivision.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\ServiceDivision.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\ServiceDivision.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\ServiceDivision.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\ServiceDivision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:00:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EducationLevel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\EducationLevel.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\EducationLevel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\EducationLevel.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\EducationLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:21:31.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "District.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\District.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\District.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\District.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\District.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:21:15.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Designation.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Designation.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Designation.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:21:09.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Country.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Country.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Country.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:20:50.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Welfare\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Welfare\\IApplicationService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Welfare\\IApplicationService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Welfare\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:08:27.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IDepositService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Saving\\IDepositService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Saving\\IDepositService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Saving\\IDepositService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Saving\\IDepositService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:07:54.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Division.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Division.cs",
+              "RelativeDocumentMoniker": "Domain\\DbModels\\Common\\Division.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Domain\\DbModels\\Common\\Division.cs",
+              "RelativeToolTip": "Domain\\DbModels\\Common\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:54:48.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IDisbursementService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Welfare\\IDisbursementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Welfare\\IDisbursementService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Welfare\\IDisbursementService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Welfare\\IDisbursementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:09:15.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IUpazilaService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IUpazilaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IUpazilaService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IUpazilaService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IUpazilaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IUnionService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IUnionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IUnionService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IUnionService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IUnionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:51.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IServiceDivision.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IServiceDivision.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IServiceDivision.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IServiceDivision.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IServiceDivision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:42.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IServiceDepartment.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IServiceDepartment.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IServiceDepartment.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IServiceDepartment.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IServiceDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:37.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IOccupation.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IOccupation.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IOccupation.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IOccupation.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IOccupation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IMobileBanking.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IMobileBanking.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IMobileBanking.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IMobileBanking.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IMobileBanking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:19.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IMembershipType.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IMembershipType.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IMembershipType.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IMembershipType.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IMembershipType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IMaritalStatus.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IMaritalStatus.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IMaritalStatus.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IMaritalStatus.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IMaritalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:20:02.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IGender.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IGender.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IGender.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IGender.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IGender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:19:54.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IEducationLevel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IEducationLevel.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IEducationLevel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IEducationLevel.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IEducationLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:19:45.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IDivisionService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IDivisionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IDivisionService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IDivisionService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IDivisionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:19:38.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IDistrictService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IDistrictService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IDistrictService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IDistrictService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IDistrictService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:19:28.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IDesignationService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IDesignationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\Common\\IDesignationService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Interfaces\\Common\\IDesignationService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\Common\\IDesignationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:18:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "UnionService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\UnionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\UnionService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\UnionService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\UnionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:15:20.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "UpazilaService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\UpazilaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\UpazilaService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\UpazilaService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\UpazilaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:14:57.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ServiceDivision.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\ServiceDivision.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\ServiceDivision.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\ServiceDivision.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\ServiceDivision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:01:03.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ServiceDepartment.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\ServiceDepartment.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\ServiceDepartment.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\ServiceDepartment.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\ServiceDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:00:46.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Religion.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\Religion.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\Religion.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\Religion.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\Religion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:00:28.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Occupation.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\Occupation.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\Occupation.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\Occupation.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\Occupation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:00:16.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\Gender.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\Gender.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\Gender.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:59:01.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "EducationLevel.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\EducationLevel.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\EducationLevel.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\EducationLevel.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\EducationLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:58:49.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DivisionService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\DivisionService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\DivisionService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\DivisionService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\DivisionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:55:11.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "DistrictService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\DistrictService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\DistrictService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\DistrictService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\DistrictService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:43:47.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "DesignationService.cs",
+              "DocumentMoniker": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\DesignationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\Common\\DesignationService.cs",
+              "ToolTip": "H:\\Self Project\\CodeForge\\CodeForge\\Application\\Services\\Implementations\\Common\\DesignationService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\Common\\DesignationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:43:24.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

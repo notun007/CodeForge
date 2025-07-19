@@ -1,0 +1,563 @@
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.Development.json
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.json
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.exe
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.deps.json
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.runtimeconfig.json
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.dll
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.pdb
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.AssemblyReference.cache
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.GeneratedMSBuildEditorConfig.editorconfig
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfoInputs.cache
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfo.cs
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.CoreCompileInputs.cache
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cs
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cache
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.build.json
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.development.json
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.CodeForge.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.build.CodeForge.props
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CodeForge.props
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CodeForge.props
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\scopedcss\bundle\CodeForge.styles.css
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.Up2Date
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.dll
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\refint\CodeForge.dll
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.pdb
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.genruntimeconfig.cache
+H:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\ref\CodeForge.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.Development.json
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.json
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.exe
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.deps.json
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.runtimeconfig.json
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.pdb
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Azure.Core.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Azure.Identity.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Humanizer.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.ClientModel.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.CodeDom.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Text.Json.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Application.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Domain.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Persistence.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Shared.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Application.pdb
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Domain.pdb
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+D:\Tutorial\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Shared.pdb
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.AssemblyReference.cache
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfoInputs.cache
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfo.cs
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.CoreCompileInputs.cache
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cs
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cache
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.CodeForge.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.build.CodeForge.props
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CodeForge.props
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CodeForge.props
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\scopedcss\bundle\CodeForge.styles.css
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.Up2Date
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\refint\CodeForge.dll
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.pdb
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.genruntimeconfig.cache
+D:\Tutorial\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\ref\CodeForge.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.Development.json
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.json
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.exe
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.deps.json
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.runtimeconfig.json
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.pdb
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Azure.Core.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Azure.Identity.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Humanizer.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.ClientModel.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.CodeDom.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Text.Json.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Application.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Domain.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Persistence.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Shared.dll
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Application.pdb
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Domain.pdb
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+D:\Self\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Shared.pdb
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.AssemblyReference.cache
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfoInputs.cache
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfo.cs
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.CoreCompileInputs.cache
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cs
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cache
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.build.json
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.development.json
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.CodeForge.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.build.CodeForge.props
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CodeForge.props
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CodeForge.props
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\scopedcss\bundle\CodeForge.styles.css
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.Up2Date
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.dll
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\refint\CodeForge.dll
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.pdb
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.genruntimeconfig.cache
+D:\Self\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\ref\CodeForge.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.Development.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\appsettings.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.staticwebassets.endpoints.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.exe
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.deps.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.runtimeconfig.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\CodeForge.pdb
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Azure.Core.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Azure.Identity.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Humanizer.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.ClientModel.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.CodeDom.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Formats.Asn1.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Text.Json.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Application.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Domain.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Persistence.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Shared.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Application.pdb
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Domain.pdb
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+H:\Self Project\CodeForge\CodeForge\CodeForge\bin\Debug\net8.0\Infrastructure.Shared.pdb
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.AssemblyReference.cache
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\rpswa.dswa.cache.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.GeneratedMSBuildEditorConfig.editorconfig
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfoInputs.cache
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.AssemblyInfo.cs
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.CoreCompileInputs.cache
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cs
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.MvcApplicationPartsAssemblyInfo.cache
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\rjimswa.dswa.cache.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\scopedcss\bundle\CodeForge.styles.css
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.build.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.build.json.cache
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.development.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.csproj.Up2Date
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\refint\CodeForge.dll
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.pdb
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\CodeForge.genruntimeconfig.cache
+H:\Self Project\CodeForge\CodeForge\CodeForge\obj\Debug\net8.0\ref\CodeForge.dll

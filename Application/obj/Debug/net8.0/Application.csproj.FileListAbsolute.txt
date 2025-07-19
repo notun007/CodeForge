@@ -1,0 +1,68 @@
+H:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.deps.json
+H:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.dll
+H:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.pdb
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.dll
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\refint\Application.dll
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.pdb
+H:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.deps.json
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.dll
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.pdb
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Domain.dll
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Persistence.dll
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Shared.dll
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Domain.pdb
+D:\Tutorial\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Shared.pdb
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.dll
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.pdb
+D:\Tutorial\CodeForge\CodeForge\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.deps.json
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.dll
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.pdb
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Domain.dll
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Persistence.dll
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Shared.dll
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Domain.pdb
+D:\Self\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Shared.pdb
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.dll
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.pdb
+D:\Self\CodeForge\CodeForge\Application\obj\Debug\net8.0\ref\Application.dll
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.deps.json
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.dll
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Application.pdb
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Domain.dll
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Persistence.dll
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Shared.dll
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Domain.pdb
+H:\Self Project\CodeForge\CodeForge\Application\bin\Debug\net8.0\Infrastructure.Shared.pdb
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.dll
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\refint\Application.dll
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\Application.pdb
+H:\Self Project\CodeForge\CodeForge\Application\obj\Debug\net8.0\ref\Application.dll

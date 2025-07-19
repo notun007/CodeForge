@@ -1,0 +1,44 @@
+H:\Tutorial\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.deps.json
+H:\Tutorial\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.dll
+H:\Tutorial\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.pdb
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.dll
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\refint\Domain.dll
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.pdb
+H:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Tutorial\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Tutorial\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.dll
+D:\Tutorial\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.dll
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Tutorial\CodeForge\CodeForge\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Self\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Self\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.dll
+D:\Self\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.dll
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Self\CodeForge\CodeForge\Domain\obj\Debug\net8.0\ref\Domain.dll
+H:\Self Project\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.deps.json
+H:\Self Project\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.dll
+H:\Self Project\CodeForge\CodeForge\Domain\bin\Debug\net8.0\Domain.pdb
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.dll
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\refint\Domain.dll
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\Domain.pdb
+H:\Self Project\CodeForge\CodeForge\Domain\obj\Debug\net8.0\ref\Domain.dll
