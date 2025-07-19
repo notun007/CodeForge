@@ -9,11 +9,7 @@ using System.Threading.Tasks;
 namespace Domain.Common
 {
     public abstract class BaseEntity
-    {
-        //New: 13072025
-        //[Key]                          
-        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        //public int Id { get; set; }
+    {      
         public bool IsActive { get; set; }
         public int CreateBy { get; set; }
         public DateTime CreateDate { get; set; }
@@ -22,7 +18,5 @@ namespace Domain.Common
         public int? UpdateBy { get; set; }
         public DateTime? UpdateDate { get; set; }
 
-        //Old: 13072025
-        //public virtual int Id { get; set; }
     }
 }

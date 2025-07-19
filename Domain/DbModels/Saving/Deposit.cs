@@ -14,6 +14,8 @@ namespace Domain.DbModels.Saving
     [Table("Deposits", Schema = "Saving")]
     public class Deposit: BaseEntity
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int64 Id { get; set; }
         public Int64 MembershipId { get; set; }
         public Membership Membership { get; set; }

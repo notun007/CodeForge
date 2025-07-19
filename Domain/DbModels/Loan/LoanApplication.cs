@@ -1,4 +1,5 @@
 ﻿using Domain.Common;
+using Domain.DbModels.Member;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -13,7 +14,8 @@ namespace Domain.DbModels.Loan
     public class LoanApplication: BaseEntity
     {
         public Int64 Id { get; set; }
-        public int MembershipId { get; set; }
+        public Int64 MembershipId { get; set; }
+        public Membership Membership { get; set; }
         public decimal LoanAmount { get; set; }
         public Int16 TenureId { get; set; } // Consider using enum  12/24/35/48/60 months
         public string LoanPurpose { get; set; }

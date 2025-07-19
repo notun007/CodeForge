@@ -1,5 +1,6 @@
 ﻿using Domain.Common;
 using Domain.DbModels.Common;
+using Domain.DbModels.Member;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -14,6 +15,8 @@ namespace Domain.DbModels.Loan
     public class LoanDisbursement: BaseEntity
     {
         public Int64 Id { get; set; }
+        public Int64 MembershipId { get; set; }
+        public Membership Membership { get; set; }
         public int LoanNumber { get; set; }
         public decimal LoanAmount { get; set; }
         public Int16 TenureId { get; set; } //Enum in Month
