@@ -14,6 +14,7 @@ namespace Domain.DbModels.Accounting.Income
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int16 Id { get; set; }
+        [MaxLength(50)]
         public string Name { get; set; }
     }
 }

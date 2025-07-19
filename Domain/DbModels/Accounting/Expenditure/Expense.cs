@@ -21,11 +21,14 @@ namespace Domain.DbModels.Accounting.Expenditure
         public decimal Amount { get; set; }
         public Int16 PaymentMethodId { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
+        [MaxLength(100)]
         public string ReferenceNumber { get; set; }
-        public string PaidTo { get; set; }
-        public string Description { get; set; }
-        public string ApprovedBy { get; set; }
-        public string ApprovedDate { get; set; }
+        [MaxLength(200)]
+        public string? PaidTo { get; set; }
+        [MaxLength(200)]
+        public string? Description { get; set; }
+        public int? ApprovedBy { get; set; }
+        public DateTime? ApprovedDate { get; set; }
         public bool IsRecurring { get; set; }
         public DateTime ExpenseDate { get; set; }
     }

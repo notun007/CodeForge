@@ -14,6 +14,7 @@ namespace Domain.DbModels.Accounting.Expenditure
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int16 Id { get; set; }
+        [MaxLength(100)]
         public string Name { get; set; }
     }
 }
