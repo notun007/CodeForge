@@ -24,7 +24,6 @@ namespace Domain.DbModels.Loan
         public decimal? OtherCharges { get; set; }
         public Int16 PaymentMethodId { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
-        public PaymentMethod PaymentMethod { get; set; }
         [MaxLength(100)]
         public string ReferenceNumber { get; set; }
         public int CollectedBy { get; set; }
