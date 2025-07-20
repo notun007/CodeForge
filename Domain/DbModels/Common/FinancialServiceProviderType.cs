@@ -15,6 +15,7 @@ namespace Domain.DbModels.Common
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int16 Id { get; set; }
+        [MaxLength(100)]
         public string Name { get; set; }
     }
 }

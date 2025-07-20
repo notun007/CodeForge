@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Domain.DbModels.Loan
 {
+    [Table("InstallmentFrequencies", Schema = "Loan")]
     public class InstallmentFrequency: BaseEntity
     {
         [Key]

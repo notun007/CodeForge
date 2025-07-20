@@ -10,6 +10,7 @@ using Domain.DbModels.Common;
 
 namespace Domain.DbModels.Saving
 {
+    [Table("SavingPolicies", Schema = "Saving")]
     public class SavingPolicy: BaseEntity
     {
         [Key]

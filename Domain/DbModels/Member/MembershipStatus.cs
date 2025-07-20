@@ -8,11 +8,13 @@ using System.Threading.Tasks;
 
 namespace Domain.DbModels.Member
 {
-    public class MembershipStatusViewModel
+    [Table("MembershipStatuses", Schema = "Member")]
+    public class MembershipStatus
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int16 Id { get; set; }
+        [MaxLength(100)]
         public string Name { get; set; }
     }
 }

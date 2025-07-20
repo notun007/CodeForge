@@ -40,6 +40,7 @@ namespace Domain.DbModels.Member
         public decimal ShareCapital { get; set; }
         public DateTime? MembershipDate { get; set; }
         public Int16? MembershipStatusId { get; set; }
+        [MaxLength(200)]
         public string? PhotoUrl { get; set; }
         [MaxLength(200)]
         public string? NomineeName { get; set; }

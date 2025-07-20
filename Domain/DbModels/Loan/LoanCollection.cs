@@ -25,11 +25,11 @@ namespace Domain.DbModels.Loan
         public Int16 PaymentMethodId { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
         [MaxLength(100)]
-        public string ReferenceNumber { get; set; }
+        public string? ReferenceNumber { get; set; }
         public int CollectedBy { get; set; }
         public DateTime CollectionDate { get; set; }
         [MaxLength(200)]
-        public string Remarks { get; set; }
+        public string? Remarks { get; set; }
         public bool IsAdvancePayment { get; set; }
         public DateTime? DueDate { get; set; }
 

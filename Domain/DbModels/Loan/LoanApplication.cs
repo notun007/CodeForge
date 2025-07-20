@@ -31,7 +31,7 @@ namespace Domain.DbModels.Loan
         public DateTime? ApprovedDate { get; set; }
         public int? ApprovedBy { get; set; }
         [MaxLength(200)]
-        public string Remarks { get; set; }
+        public string? Remarks { get; set; }
 
     }
 }

@@ -10,6 +10,7 @@ using Domain.DbModels.Common;
 
 namespace Domain.DbModels.Loan
 {
+    [Table("LoanPolicies", Schema = "Loan")]
     public class LoanPolicy: BaseEntity
     {
         [Key]
