@@ -17,5 +17,8 @@ namespace Domain.DbModels.Common
         public Int16 Id { get; set; }
         [MaxLength(150)]
         public string Name { get; set; }
+        public Int16 DistrictId { get; set; }
+        public District District { get; set; }
+        public virtual ICollection<Union> Unions { get; set; }
     }
 }

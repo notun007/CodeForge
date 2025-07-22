@@ -17,5 +17,8 @@ namespace Domain.DbModels.Common
         public Int16 Id { get; set; }
         [MaxLength(200)]
         public string Name { get; set; }
+        public Int16 DivisionId { get; set; }
+        public Division Division { get; set; }
+        public virtual ICollection<Upazila> Upazilas { get; set; }
     }
 }

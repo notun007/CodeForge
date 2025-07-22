@@ -17,5 +17,7 @@ namespace Domain.DbModels.Common
         public Int16 Id { get; set; }
         [MaxLength(150)]
         public string Name { get; set; }
+        public Int16 UpazilaId { get; set; }
+        public Upazila Upazila { get; set; }
     }
 }

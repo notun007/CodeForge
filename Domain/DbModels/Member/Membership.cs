@@ -25,7 +25,7 @@ namespace Domain.DbModels.Member
         [MaxLength(200)]
         public string MotherName { get; set; }
         [MaxLength(200)]
-        public string? SpouseNameName { get; set; }
+        public string? SpouseName { get; set; }
         [MaxLength(10)]
         public string MembershipNumber { get; set; }
         public DateTime? DateOfBirth { get; set; }
@@ -51,7 +51,7 @@ namespace Domain.DbModels.Member
         public Int64? IntroducedByMemberId { get; set; }
         public Membership IntroducedByMember { get; set; }
         [MaxLength(50)]
-        public string? NID { get; set; }
+        public string? NationalIdentificationNumber { get; set; }
         public Int16 GenderId { get; set; }
         public Gender Gender { get; set; }
         public Int16 MaritalStatusId { get; set; }

@@ -17,5 +17,9 @@ namespace Domain.DbModels.Common
         public Int16 Id { get; set; }
         [MaxLength(200)]
         public string Name { get; set; }
+        [MaxLength(5)]
+        public string ShortName { get; set; }
+        public virtual ICollection<Division> Divisions { get; set; }
+        
     }
 }

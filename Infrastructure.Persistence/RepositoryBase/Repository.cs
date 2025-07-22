@@ -17,7 +17,7 @@ namespace Infrastructure.Persistence.RepositoryBase
             _dbContext = dbContext;
         }
 
-        public virtual async Task<T> GetByIdAsync(int id)
+        public virtual async Task<T> GetByIdAsync(object id)
         {
             return await _dbContext.Set<T>().FindAsync(id);
         }
