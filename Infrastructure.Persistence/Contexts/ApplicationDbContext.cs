@@ -98,6 +98,15 @@ namespace Infrastructure.Persistence.Contexts
             //{
             //    property.SetColumnType("decimal(18,6)");
             //}
+
+
+         builder.Entity<LoanCollection>()
+        .HasOne(lc => lc.PaymentMethod)
+        .WithMany()
+        .HasForeignKey(lc => lc.PaymentMethodId)
+        .OnDelete(DeleteBehavior.Restrict); // or DeleteBehavior.NoAction
+
+
             base.OnModelCreating(builder);
         }
     }

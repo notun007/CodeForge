@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Domain.DbModels.Loan
 {
-    [Table("LoanCollection", Schema = "Loan")]
+    [Table("LoanCollections", Schema = "Loan")]
     public class LoanCollection: BaseEntity
     {
         [Key]
