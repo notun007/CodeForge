@@ -5,6 +5,10 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using Application.Services;
 using Infrastructure.Persistence.Repositories;
+using Microsoft.AspNetCore.Identity;
+using Domain.Identity.DbModels.Security;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Infrastructure.Identity.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +19,24 @@ builder.Services.AddInfrastructureLayer();
 // Add services to the container.
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddDbContext<IdentityContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+#region Identity
+builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
+            .AddEntityFrameworkStores<IdentityContext>()
+            .AddDefaultTokenProviders(); // for email confirmation, reset password, etc.
+
+        // 3. Configure Identity options (optional)
+        builder.Services.Configure<IdentityOptions>(options =>
+        {
+            options.Password.RequireDigit = true;
+            options.Password.RequireUppercase = false;
+            options.Password.RequiredLength = 6;
+            options.User.RequireUniqueEmail = true;
+        });
+    #endregion
 
 builder.Services.AddScoped<IDateTimeService, DateTimeService>();
 
