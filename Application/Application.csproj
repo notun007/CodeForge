@@ -25,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.Identity\Infrastructure.Identity.csproj" />
     <ProjectReference Include="..\Infrastructure.Persistence\Infrastructure.Persistence.csproj" />
   </ItemGroup>
 
@@ -33,6 +34,12 @@
     <Folder Include="Services\Implementations\Investment\" />
     <Folder Include="Services\Interfaces\Accounting\Income\" />
     <Folder Include="Services\Interfaces\Investment\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+    <PackageReference Include="MailKit" Version="4.13.0" />
+    <PackageReference Include="Microsoft.FeatureManagement" Version="4.2.1" />
   </ItemGroup>
 
 </Project>
