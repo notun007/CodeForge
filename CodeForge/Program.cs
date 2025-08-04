@@ -9,6 +9,9 @@ using Microsoft.AspNetCore.Identity;
 using Domain.Identity.DbModels.Security;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Infrastructure.Identity.Context;
+using Application.Services.Implementations.Security;
+using Application.Services.Interfaces.Security;
+using Microsoft.FeatureManagement;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -36,9 +39,12 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
             options.Password.RequiredLength = 6;
             options.User.RequireUniqueEmail = true;
         });
-    #endregion
+#endregion
 
+builder.Services.AddScoped<IEmailService, Application.Services.Implementations.Security.MailService>();
+builder.Services.AddScoped<IAccountService, AccountService>();
 builder.Services.AddScoped<IDateTimeService, DateTimeService>();
+builder.Services.AddFeatureManagement();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
