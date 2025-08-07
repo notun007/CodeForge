@@ -13,6 +13,6 @@ namespace Domain.Identity.DbModels.Security
         {
 
         }
-        public string Description { get; set; }
+        public string? Description { get; set; }
     }
 }

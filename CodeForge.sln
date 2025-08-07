@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Identity", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Shared", "Infrastructure.Shared\Infrastructure.Shared.csproj", "{1123F252-DD8A-4852-827F-2C1F27FCB86F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Identity", "Domain.Identity\Domain.Identity.csproj", "{A9E5C534-D931-4ECD-B48C-5695A85188CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Identity", "Domain.Identity\Domain.Identity.csproj", "{A9E5C534-D931-4ECD-B48C-5695A85188CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Common\LoginUserDto.cs" />
+    <Compile Remove="Common\LoginUserDtoForApi.cs" />
+    <Compile Remove="Common\RegisterUserDto.cs" />
+    <Compile Remove="Common\UserIdentityDto.cs" />
+    <Compile Remove="Response\PaginatedList.cs" />
+    <Compile Remove="Settings\ApplicationDetail.cs" />
+    <Compile Remove="Settings\MailRequest.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.19" />
+  </ItemGroup>
+
+</Project>

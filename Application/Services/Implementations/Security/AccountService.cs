@@ -31,6 +31,7 @@ namespace Application.Services.Implementations.Security
     //New:30072025
     public class AccountService(
     UserManager<ApplicationUser> userManager,
+       
     IOptions<JWTSettings> jwtSettings,
     SignInManager<ApplicationUser> signInManager,
     IEmailService emailService,
@@ -89,6 +90,8 @@ namespace Application.Services.Implementations.Security
                 var result = await userManager.CreateAsync(user, request.Password);
                 if (result.Succeeded)
                 {
+                    string role = Roles.Basic.ToString();
+
                     await userManager.AddToRoleAsync(user, Roles.Basic.ToString());
                     var verificationUri = await SendVerificationEmail(user, origin);
 
