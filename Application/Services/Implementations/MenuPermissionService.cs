@@ -1,5 +1,7 @@
 ﻿using Application.Services.Interfaces;
 using Domain.Identity.DbModels.Security;
+using Domain.Identity.ViewModels.Security;
+using Infrastructure.Identity.Interfaces.Security;
 using Infrastructure.Identity.RepositoryBase;
 using System;
 using System.Collections.Generic;
@@ -11,9 +13,10 @@ namespace Application.Services.Implementations
 {
     public class MenuPermissionService : IMenuPermissionService
     {
-        private readonly IIdentityRepository<MenuPermission> _repository;
+        //private readonly IIdentityRepository<MenuPermission> _repository;
+        private readonly IMenuPermissionRepository _repository;
 
-        public MenuPermissionService(IIdentityRepository<MenuPermission> repository)
+        public MenuPermissionService(IMenuPermissionRepository repository)
         {
             _repository = repository;
         }
@@ -36,6 +39,11 @@ namespace Application.Services.Implementations
         public async Task<MenuPermission> GetMenuPermissionByIdAsync(MenuPermission obj)
         {
             return await _repository.GetByIdAsync(obj.Id);
+        }
+
+        public async Task<List<ModuleViewModel>> GetModuleMenuByRole(string roleId)
+        {
+            return await _repository.GetModuleMenuByRole(roleId);
         }
     }
 

@@ -1,4 +1,5 @@
 ﻿using Domain.Identity.DbModels.Security;
+using Domain.Identity.ViewModels.Security;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace Application.Services.Interfaces
         Task UpdateMenuPermissionAsync(MenuPermission obj);
         Task<IEnumerable<MenuPermission>> GetAllMenuPermissionAsync();
         Task<MenuPermission> GetMenuPermissionByIdAsync(MenuPermission obj);
+        Task<List<ModuleViewModel>> GetModuleMenuByRole(string roleId);
     }
 
 }
