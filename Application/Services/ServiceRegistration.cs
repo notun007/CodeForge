@@ -14,7 +14,7 @@ namespace Application.Services
             services.AddScoped<ICountryService, CountryService>();
             services.AddScoped<IModuleService, ModuleService>();
             services.AddScoped<IMenuService, MenuService>();
-            // Add more application-level services here
+            services.AddScoped<IMenuPermissionService, MenuPermissionService>();
 
             return services;
         }
