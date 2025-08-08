@@ -2,5 +2,8 @@
 
 namespace Infrastructure.Identity.RepositoryBase
 {    
-    public interface IIdentityRepository<TEntity> : IRepository<TEntity> where TEntity : class { }
+    public interface IIdentityRepository<TEntity> : IRepository<TEntity> where TEntity : class 
+    {
+
+    }
 }

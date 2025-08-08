@@ -82,6 +82,7 @@ namespace Infrastructure.Identity.Context
 
         }
 
+        public DbSet<ApplicationRole> ApplicationRoles { get; set; }
         public DbSet<Module> Modules { get; set; }
         public DbSet<Menu> Menus { get; set; }
         public DbSet<MenuPermission> MenuPermissions { get; set; }

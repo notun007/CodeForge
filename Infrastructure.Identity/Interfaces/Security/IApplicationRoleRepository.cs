@@ -1,5 +1,4 @@
 ﻿using Domain.Identity.DbModels.Security;
-using Domain.Identity.ViewModels.Security;
 using Infrastructure.Shared.GenericRepository;
 using System;
 using System.Collections.Generic;
@@ -9,9 +8,8 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Identity.Interfaces.Security
 {
-    public interface IMenuPermissionRepository: IRepository<MenuPermission>
+    public interface IApplicationRoleRepository : IRepository<ApplicationRole>
     {
-        Task<List<ModuleViewModel>> GetModuleMenuByRole(string roleId);
     }
 
 }

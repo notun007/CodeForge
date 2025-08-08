@@ -15,7 +15,8 @@ namespace Domain.Identity.DbModels.Security
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Int16 Id { get; set; }
-        public int? SecRoleId { get; set; }
+        [MaxLength(450)]
+        public string? SecRoleId { get; set; }
         [MaxLength(450)]
         public string? SecUserId { get; set; }
         public int SecMenuId { get; set; }
