@@ -18,11 +18,13 @@ using Infrastructure.Identity.RepositoryBase;
 using Infrastructure.Persistence.Repositories.Interfaces.Welfare;
 using Infrastructure.Persistence.RepositoryBase;
 using Infrastructure.Shared.GenericRepository;
+using Infrastructure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add layers via DI extensions
-builder.Services.AddApplicationLayer();
+builder.Services.AddService();
+builder.Services.AddIdentityRepository();
 builder.Services.AddInfrastructureLayer();
 
 
