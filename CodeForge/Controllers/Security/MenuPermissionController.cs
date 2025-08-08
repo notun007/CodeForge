@@ -4,6 +4,7 @@ namespace CodeForge.Controllers.Security
 {
     using Application.Services.Interfaces;
     using Domain.Identity.DbModels.Security;
+    using Domain.Identity.ViewModels.Security;
     using Microsoft.AspNetCore.Mvc;
 
     [Route("api/[controller]")]
@@ -44,6 +45,12 @@ namespace CodeForge.Controllers.Security
             var obj = new MenuPermission { Id = id };
             var result = await _service.GetMenuPermissionByIdAsync(obj);
             return Ok(result);
+        }
+
+        [HttpGet("GetModuleMenuByRole")]
+        public async Task<List<ModuleViewModel>> GetModuleMenuByRole(string roleId)
+        {
+            return await _service.GetModuleMenuByRole(roleId);
         }
     }
 
