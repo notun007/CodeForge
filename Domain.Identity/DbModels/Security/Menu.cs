@@ -27,7 +27,6 @@ namespace Domain.Identity.DbModels.Security
         public Int16 ParentSerialNo { get; set; }
         public Int16 ChildSerialNo { get; set; }
         public Int16 LevelNo { get; set; }
-        [StringLength(1)]
         public bool IsParent { get; set; }
         [StringLength(256)]
         public string? Icon { get; set; }

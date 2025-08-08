@@ -1,11 +1,9 @@
-﻿using Application.Services.Implementations.Common;
+﻿using Application.Services.Implementations;
+using Application.Services.Implementations.Common;
+using Application.Services.Interfaces;
 using Application.Services.Interfaces.Common;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Application.Services
 {
@@ -14,7 +12,8 @@ namespace Application.Services
         public static IServiceCollection AddApplicationLayer(this IServiceCollection services)
         {
             services.AddScoped<ICountryService, CountryService>();
-            
+            services.AddScoped<IModuleService, ModuleService>();
+            services.AddScoped<IMenuService, MenuService>();
             // Add more application-level services here
 
             return services;
