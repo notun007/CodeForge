@@ -13,12 +13,47 @@ namespace CodeForge.Controllers.Security
 
     [Route("api/[controller]")]
     [ApiController]
-    public class AccountController(IAccountService accountService) : ControllerBase
+    public class AccountController : ControllerBase
     {
+
+        private readonly IAccountService accountService;
+        private readonly IConfiguration configuration;
+
+        public AccountController(IAccountService accountService, IConfiguration configuration)
+        {
+            this.accountService = accountService;
+            this.configuration = configuration;
+        }
+
+
         [HttpPost("authenticate")]
         public async Task<IActionResult> AuthenticateAsync(AuthenticationRequest request)
         {
-            return Ok(await accountService.AuthenticateAsync(request, GenerateIPAddress()));
+
+            var result = await accountService.AuthenticateAsync(request, GenerateIPAddress());
+
+            //Added On 16/09/2025
+            if (result.Succeeded)
+            {
+                return Ok(new
+                {
+                    IsAuhentic = result.Succeeded,
+                    Message = "Successfull Authentication",
+                    Token = result.Data.RefreshToken
+                });
+            }
+            else
+            {
+                return Ok(new
+                {
+                    IsAuhentic = result.Succeeded,
+                    Message = "Failed to Authentication",
+                    Token = string.Empty
+                });
+            }
+           
+
+           // return Ok(await accountService.AuthenticateAsync(request, GenerateIPAddress()));
         }
         [HttpPost("register")]
         public async Task<IActionResult> RegisterAsync(RegisterRequest request)

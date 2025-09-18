@@ -1,4 +1,4 @@
-using Infrastructure.Persistence.Contexts;
+﻿using Infrastructure.Persistence.Contexts;
 using Infrastructure.Shared.Services.Implementstions;
 using Infrastructure.Shared.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -65,10 +65,38 @@ builder.Services.AddScoped<IAccountService, AccountService>();
 builder.Services.AddScoped<IDateTimeService, DateTimeService>();
 builder.Services.AddFeatureManagement();
 
+// Add CORS services
+var origins = builder.Configuration.GetValue<string>("CORSURL:ClientUrlURl").Split(',');
+
+
+//Old: 16-092025
+//builder.Services.AddCors(options =>
+//{
+//    //AllowSpecificOrigin
+//    options.AddPolicy(name: "AllowAll",
+//        builder =>
+//        {
+//            builder.WithOrigins("http://localhost:50457")
+//                   .AllowAnyHeader()
+//                   .AllowAnyMethod();
+
+//        });
+//});
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        builder => builder.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader());
+});
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
 
 var app = builder.Build();
 
@@ -86,6 +114,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("AllowAll");
+
 app.UseAuthorization();
 app.MapControllers();
 

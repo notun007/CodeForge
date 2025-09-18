@@ -67,7 +67,9 @@ namespace Application.Services.Implementations.Security
             response.IsVerified = user.EmailConfirmed;
             var refreshToken = GenerateRefreshToken(ipAddress);
             response.RefreshToken = refreshToken.Token;
-            return new Response<AuthenticationResponse>(response, $"Authenticated {user.UserName}");
+
+           return new Response<AuthenticationResponse>(response, $"Authenticated {user.UserName}");
+
         }
 
         public async Task<Response<string>> RegisterAsync(RegisterRequest request, string origin)
